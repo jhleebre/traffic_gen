@@ -1,0 +1,7 @@
+./ug_listener [-p PORT]
+./ug_talker [-h HOST] [-p PORT] [-r RATE(Mbps)]
+
+ex)
+
+./ug_listener -p 8087
+./ug_talker -h 218.39.67.227 -p 8087 -r 1

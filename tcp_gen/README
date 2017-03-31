@@ -1,0 +1,7 @@
+synopsis:
+  ./tg_server [-p PORT]
+  ./tg_client [-h HOST] [-p PORT] [-r Mbps RATE]
+
+example:
+  ./tg_server -p 12345
+  ./tg_client -h 127.0.0.1 -p 12345 -r 1000
